@@ -2,3 +2,33 @@
 a.active {
     font-weight: bold;
 }
+/* Add screen styles below */
+a.active {
+    font-weight: bold;
+}
+
+#carouselExampleFade {
+
+    margin-left: 450px;
+    margin-top: 60px;
+    width: 400px;
+}
+
+body {
+    margin: 40px;
+    border-top: dotted;
+    border-width: 5px;
+    border-color: #99627A;
+    background-color: #E7CBCB;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    color: #463333;
+}
+
+.p1 {
+    margin-top: 30px;
+}
+
+h1 {
+    margin-top: 30px;
+}
